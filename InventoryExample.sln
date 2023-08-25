@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryExample", "InventoryExample\InventoryExample.csproj", "{703FFB57-F571-4DF6-8AAA-8419F0147AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFLibrary", "EFLibrary\EFLibrary.csproj", "{2FBD74B8-EC3B-47EF-88CC-2FD3953245E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703FFB57-F571-4DF6-8AAA-8419F0147AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703FFB57-F571-4DF6-8AAA-8419F0147AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703FFB57-F571-4DF6-8AAA-8419F0147AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703FFB57-F571-4DF6-8AAA-8419F0147AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBD74B8-EC3B-47EF-88CC-2FD3953245E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBD74B8-EC3B-47EF-88CC-2FD3953245E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBD74B8-EC3B-47EF-88CC-2FD3953245E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBD74B8-EC3B-47EF-88CC-2FD3953245E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA11E5F-02CC-4469-A6B2-B13F7FA5057D}
+	EndGlobalSection
+EndGlobal
