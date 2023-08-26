@@ -1,0 +1,15 @@
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\bin\Debug\net6.0\EFLibrary.deps.json
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\bin\Debug\net6.0\EFLibrary.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\bin\Debug\net6.0\EFLibrary.pdb
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\bin\Debug\net6.0\InventoryModels.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\bin\Debug\net6.0\InventoryModels.pdb
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\obj\Debug\net6.0\EFLibrary.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\obj\Debug\net6.0\EFLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\obj\Debug\net6.0\EFLibrary.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\obj\Debug\net6.0\EFLibrary.AssemblyInfo.cs
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\obj\Debug\net6.0\EFLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\obj\Debug\net6.0\EFLibrary.csproj.CopyComplete
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\obj\Debug\net6.0\EFLibrary.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\obj\Debug\net6.0\refint\EFLibrary.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\obj\Debug\net6.0\EFLibrary.pdb
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\EFLibrary\obj\Debug\net6.0\ref\EFLibrary.dll

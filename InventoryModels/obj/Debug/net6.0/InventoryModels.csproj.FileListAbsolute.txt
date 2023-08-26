@@ -1,0 +1,11 @@
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\bin\Debug\net6.0\InventoryModels.deps.json
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\bin\Debug\net6.0\InventoryModels.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\bin\Debug\net6.0\InventoryModels.pdb
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\obj\Debug\net6.0\InventoryModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\obj\Debug\net6.0\InventoryModels.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\obj\Debug\net6.0\InventoryModels.AssemblyInfo.cs
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\obj\Debug\net6.0\InventoryModels.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\obj\Debug\net6.0\InventoryModels.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\obj\Debug\net6.0\refint\InventoryModels.dll
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\obj\Debug\net6.0\InventoryModels.pdb
+C:\Users\vboxuser\Desktop\Проекты\C# projects\EntityFrameworkBookLessons\InventoryExample\InventoryModels\obj\Debug\net6.0\ref\InventoryModels.dll
