@@ -1282,13 +1282,25 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.10"
+          "InventoryModels": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10"
         },
         "compile": {
           "bin/placeholder/EFLibrary.dll": {}
         },
         "runtime": {
           "bin/placeholder/EFLibrary.dll": {}
+        }
+      },
+      "InventoryModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/InventoryModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InventoryModels.dll": {}
         }
       }
     }
@@ -3804,6 +3816,11 @@
       "type": "project",
       "path": "../EFLibrary/EFLibrary.csproj",
       "msbuildProject": "../EFLibrary/EFLibrary.csproj"
+    },
+    "InventoryModels/1.0.0": {
+      "type": "project",
+      "path": "../InventoryModels/InventoryModels.csproj",
+      "msbuildProject": "../InventoryModels/InventoryModels.csproj"
     }
   },
   "projectFileDependencyGroups": {

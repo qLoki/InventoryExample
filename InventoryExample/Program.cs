@@ -1,11 +1,13 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using EFLibrary;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 namespace InventoryExample
 {
 	internal class Program
 	{
 		private static IConfigurationRoot _configuration;
-		//private static DbContextOptionsBuilder<InventoryDbContext>_optionsBuilder;
+		private static DbContextOptionsBuilder<InventoryDbContext>_optionsBuilder;
 		static void Main(string[] args)
 		{
 			BuildOptions();
@@ -13,8 +15,8 @@ namespace InventoryExample
 		static void BuildOptions()
 		{
 			_configuration = ConfigurationBuilderSingleton.ConfigurationRoot;
-			//_optionsBuilder = new DbContextOptionsBuilder<InventoryDbContext>();
-			//_optionsBuilder.UseSqlServer(_configuration.GetConnectionString("InventoryManager"));
+			_optionsBuilder = new DbContextOptionsBuilder<InventoryDbContext>();
+			_optionsBuilder.UseSqlServer(_configuration.GetConnectionString("InventoryManager"));
 		}
 	}
 }
